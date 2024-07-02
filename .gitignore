@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Unignore directories
+!*/
+
+# Allow changes in specific folders
+!mods/*
+!config/*
+!resourcepacks/*
+
+# Unignore the .gitignore file
+!.gitignore
