@@ -6,18 +6,7 @@
 
 # Allow changes in specific folders
 !mods/*
-!config/*
 !resourcepacks/*
-
-config/awesomedungeon_1.properties
-config/awesomedungeonend_1.properties
-config/awesomedungeonnether_1.properties
-config/awesomedungeonocean_1.properties
-config/bettervillage_1.properties
-config/controlify.json
-config/indium-renderer.properties
-config/libraryferret_1.properties
-config/xaerominimap_entities.json
 
 # Unignore the .gitignore file
 !.gitignore
