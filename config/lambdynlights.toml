@@ -361,12 +361,6 @@ mode = "fastest"
 				rope_arrow = true
 				slingshot_projectile = true
 
-			[light_sources.settings.entities.tinyskeletons]
-				baby_skeleton = true
-
-			[light_sources.settings.entities.friendsandfoes]
-				copper_golem = true
-
 		[light_sources.settings.block_entities]
 
 			[light_sources.settings.block_entities.minecraft]

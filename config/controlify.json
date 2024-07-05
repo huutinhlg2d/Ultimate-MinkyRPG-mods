@@ -15,7 +15,7 @@
     "allow_server_rumble": true,
     "ui_sounds": false,
     "notify_low_battery": true,
-    "delegate_setup": false,
+    "delegate_setup": true,
     "ingame_button_guide_scale": 1.0
   }
 }
