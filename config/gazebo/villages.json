@@ -1,0 +1,154 @@
+{
+  "entries": [
+    {
+      "pool": "minecraft:village/desert/houses",
+      "structures": [
+        {
+          "id": "gazebo:village/desert/gazebo",
+          "weight": 5,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/desert/desert_alchemist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/desert/desert_horticulturist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/desert/desert_occultist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/desert/desert_oceanographer",
+          "weight": 1,
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "pool": "minecraft:village/savanna/houses",
+      "structures": [
+        {
+          "id": "gazebo:village/savanna/gazebo",
+          "weight": 5,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/savanna/savanna_alchemist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/savanna/savanna_horticulturist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/savanna/savanna_occultist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/savanna/savanna_oceanographer",
+          "weight": 1,
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "pool": "minecraft:village/plains/houses",
+      "structures": [
+        {
+          "id": "gazebo:village/plains/gazebo",
+          "weight": 5,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/plains/plains_alchemist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/plains/plains_horticulturist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/plains/plains_occultist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/plains/plains_oceanographer",
+          "weight": 1,
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "pool": "minecraft:village/taiga/houses",
+      "structures": [
+        {
+          "id": "gazebo:village/taiga/gazebo",
+          "weight": 10,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/taiga/taiga_alchemist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/taiga/taiga_horticulturist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/taiga/taiga_occultist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/taiga/taiga_oceanographer",
+          "weight": 1,
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "pool": "minecraft:village/snowy/houses",
+      "structures": [
+        {
+          "id": "gazebo:village/snowy/gazebo",
+          "weight": 5,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/snowy/snowy_alchemist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/snowy/snowy_horticulturist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/snowy/snowy_occultist",
+          "weight": 1,
+          "limit": 1
+        },
+        {
+          "id": "villagersplus:village/snowy/snowy_oceanographer",
+          "weight": 1,
+          "limit": 1
+        }
+      ]
+    }
+  ]
+}
